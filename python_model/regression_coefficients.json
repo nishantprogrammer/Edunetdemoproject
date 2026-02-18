@@ -1,0 +1,11 @@
+{
+    "features": [
+        "Engine Size(L)",
+        "Fuel Consumption Comb (L/100 km)"
+    ],
+    "coefficients": [
+        -1.0758561827877158,
+        24.631165618910952
+    ],
+    "intercept": -3.5782228181907385
+}
